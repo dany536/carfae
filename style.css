@@ -24,3 +24,12 @@
   .card{
     border: 0px;
   }
+
+  footer{
+    background-color: #000487;
+    color: #B8C1FC;
+  }
+
+.list-unstyled > li > a{
+    color: #B8C1FC;
+  }
