@@ -15,7 +15,7 @@
   }
 
   .backfip {
-      background-image: url(/images/3.png);
+      background-image: url(./images/3.png);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
